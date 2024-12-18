@@ -24,3 +24,4 @@ const HotJobs = () => {
 };
 
 export default HotJobs;
+
